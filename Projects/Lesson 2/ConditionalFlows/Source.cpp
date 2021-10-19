@@ -15,6 +15,8 @@ int main()
 	std::cout << a << std::endl;
 
 	//if (isChild)
+	// 9 < age < 18
+	//if (age > 9 && age < 18)
 	if (age < 18)
 	{
 		a++;
