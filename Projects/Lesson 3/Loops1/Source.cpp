@@ -4,6 +4,7 @@ int main()
 {
 	int langauge = 0;
 	bool isInvalid = false;
+	int maxAttempts = 3, failures = 0;
 
 	// do-while loop
 	do
@@ -34,6 +35,14 @@ int main()
 		else
 		{
 			std::cout << "Your choice is invalid" << std::endl;
+
+			failures++;
+			if (failures >= maxAttempts)
+			{
+				std::cout << "Exiting the program due to failures" << std::endl;
+				break;
+			}
+
 			isInvalid = true;
 		}
 	} while (isInvalid);
