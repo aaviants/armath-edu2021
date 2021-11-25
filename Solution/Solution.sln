@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pointers", "..\Projects\Les
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pointers2", "..\Projects\Lesson 11\Pointers2\Pointers2.vcxproj", "{E2354813-5E09-400C-8A64-042B221EDC5E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DynamicMemory", "Z:\GitHub\aaviants\armath-edu2021\Projects\Lesson 13\DynamicMemory\DynamicMemory.vcxproj", "{0CCC721F-DD27-4313-8A5D-7BD15BEAFD7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{E2354813-5E09-400C-8A64-042B221EDC5E}.Release|x64.Build.0 = Release|x64
 		{E2354813-5E09-400C-8A64-042B221EDC5E}.Release|x86.ActiveCfg = Release|Win32
 		{E2354813-5E09-400C-8A64-042B221EDC5E}.Release|x86.Build.0 = Release|Win32
+		{0CCC721F-DD27-4313-8A5D-7BD15BEAFD7A}.Debug|x64.ActiveCfg = Debug|x64
+		{0CCC721F-DD27-4313-8A5D-7BD15BEAFD7A}.Debug|x64.Build.0 = Debug|x64
+		{0CCC721F-DD27-4313-8A5D-7BD15BEAFD7A}.Debug|x86.ActiveCfg = Debug|Win32
+		{0CCC721F-DD27-4313-8A5D-7BD15BEAFD7A}.Debug|x86.Build.0 = Debug|Win32
+		{0CCC721F-DD27-4313-8A5D-7BD15BEAFD7A}.Release|x64.ActiveCfg = Release|x64
+		{0CCC721F-DD27-4313-8A5D-7BD15BEAFD7A}.Release|x64.Build.0 = Release|x64
+		{0CCC721F-DD27-4313-8A5D-7BD15BEAFD7A}.Release|x86.ActiveCfg = Release|Win32
+		{0CCC721F-DD27-4313-8A5D-7BD15BEAFD7A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
