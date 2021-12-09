@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Structures", "Z:\GitHub\aav
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OtherDataTypes", "Z:\GitHub\aaviants\armath-edu2021\Projects\Lesson 15\OtherDataTypes\OtherDataTypes.vcxproj", "{C9FBA6C2-9E42-48A2-87E7-71BC42F8FC12}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Classes1", "Z:\GitHub\aaviants\armath-edu2021\Projects\Lesson 17\Classes1\Classes1.vcxproj", "{8D01C18D-451A-4F25-A205-C967807D384A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -201,6 +203,14 @@ Global
 		{C9FBA6C2-9E42-48A2-87E7-71BC42F8FC12}.Release|x64.Build.0 = Release|x64
 		{C9FBA6C2-9E42-48A2-87E7-71BC42F8FC12}.Release|x86.ActiveCfg = Release|Win32
 		{C9FBA6C2-9E42-48A2-87E7-71BC42F8FC12}.Release|x86.Build.0 = Release|Win32
+		{8D01C18D-451A-4F25-A205-C967807D384A}.Debug|x64.ActiveCfg = Debug|x64
+		{8D01C18D-451A-4F25-A205-C967807D384A}.Debug|x64.Build.0 = Debug|x64
+		{8D01C18D-451A-4F25-A205-C967807D384A}.Debug|x86.ActiveCfg = Debug|Win32
+		{8D01C18D-451A-4F25-A205-C967807D384A}.Debug|x86.Build.0 = Debug|Win32
+		{8D01C18D-451A-4F25-A205-C967807D384A}.Release|x64.ActiveCfg = Release|x64
+		{8D01C18D-451A-4F25-A205-C967807D384A}.Release|x64.Build.0 = Release|x64
+		{8D01C18D-451A-4F25-A205-C967807D384A}.Release|x86.ActiveCfg = Release|Win32
+		{8D01C18D-451A-4F25-A205-C967807D384A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
